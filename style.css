@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+    font-family : "Pixelify Sans" , sans-serif; 
+}
+/* experience */
+#experience{
+    position:fixed ;
+    height: 100%;
+    width:100%;
+    top : 0;
+    left : 0;
+}
+#experience-canvas{
+    height:100%;
+    width: 100%;  
+}
+/* utility  */
+.hidden{
+    display: none;
+
+}
+/* modal */
+.modal {
+    z-index:999;
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width : 100%;
+    max-width: 700px;
+    background-color: #ad8671;
+    border: 2px solid #fff;
+    color: #fff;
+} 
+.modalWrapper{
+    padding:12px;
+}
+.modalHeader{
+   display:flex;
+   width:100%;
+   flex-direction: row;
+   justify-content: space-between;
+}

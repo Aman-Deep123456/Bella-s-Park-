@@ -8,12 +8,12 @@ This project helped me understand **real-time 3D rendering, physics, collision d
 ---
 
 ## 🚀 Live Preview
-👉 *(Add your live demo link here, if hosted)*
+👉 https://drive.google.com/file/d/1_bGZQUmwjXiBlwHEl1hyVpS-kQjSJXjy/view?usp=share_link
 
 ---
 
 ## 📦 GitHub Repository
-👉 *This repository*
+👉 https://github.com/Aman-Deep123456/Bella-s-Park-/edit/Frontend/README.md
 
 ---
 
